@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreitoma37
+- 👋 Hi, I’m @andreitoma.38
 - 👀 I’m interested in Web developing
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on github / instagram / etc
